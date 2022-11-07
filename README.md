@@ -1,6 +1,7 @@
 ### Heeey, eu sou a Bárbara Flores 👋
 
 👩🏻‍💻 Estou iniciando minha carreira no mundo da programação
+
 <div align="center">
   <a href="https://github.com/baahflores">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=baahflores&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
