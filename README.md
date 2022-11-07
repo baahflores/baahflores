@@ -22,3 +22,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg">
   <a href = "floresbarbara.uf@mail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>  
   <a href="https://www.linkedin.com/in/barbaratcflores/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+##
+
+  ![Snake animation](https://raw.githubusercontent.com/baahflores/baahflores/output/github-contribution-grid-snake.gif)
