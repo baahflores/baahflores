@@ -1,4 +1,4 @@
-### Heeey, eu sou a Bárbara Flores 👋
+### Heeey, eu sou a Bárbara Flores
 
 👩🏻‍💻 Estou iniciando minha carreira no mundo da programação
 
